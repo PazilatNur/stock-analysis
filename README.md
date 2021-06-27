@@ -9,7 +9,7 @@ Secondly, we want to refactored our original code to achieve a faster results an
 
 This was a great year for investors who invested in the 12 stocks we analyzed. Majority of these stocks yield great returns, except the TERP stock.
 SPWR traded the most with the total volume of 782187000 and 23% return.And DQ stock was traded the least amount in volume, but had the highest return rate at 199.4%.
-However, in 2018 stock market tell you a very different story than 2017. Most of these stocks yield negative returns. If you invest only based on 2017, you most likely would have negative return on your investment.
+However, in 2018 stock market tell you a very different story than 2017. Most of these stocks yield negative returns. If you invest only based on 2017, you most likely would have a negative return on your investment.
 
 ### In the year 2018:
 
