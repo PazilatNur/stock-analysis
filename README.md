@@ -39,6 +39,7 @@ Refactored Code:
 
 2018 Refactored Code:
 
+<img width="1440" alt="2018_Refactored" src="https://user-images.githubusercontent.com/79488124/123559045-c0bac100-d767-11eb-83d9-3f8cb967d9e6.png">
 
 
 
