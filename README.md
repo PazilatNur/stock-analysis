@@ -33,6 +33,14 @@ Original Code:
 
 Refactored Code:
 
+2017 Refactored Code:
+
+<img width="1440" alt="2017_Refactored" src="https://user-images.githubusercontent.com/79488124/123559022-a385f280-d767-11eb-8031-09c808f87f94.png">
+
+2018 Refactored Code:
+
+
+
 
 
 It is obvious that refactored code resulted in faster run time.
