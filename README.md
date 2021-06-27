@@ -21,11 +21,14 @@ Second part of this analysis focused on refactoring the original code, hope to a
 Please see the below screenshots of before and after comparison of refactored codes.
 
 Original Code:
+
 2017 Original Code:
 
 <img width="1440" alt="2017_Before" src="https://user-images.githubusercontent.com/79488124/123558970-573ab280-d767-11eb-9f3a-fd75d438c591.png">
 
 2018 Original code:
+
+<img width="1440" alt="2018_Before" src="https://user-images.githubusercontent.com/79488124/123559002-82bd9d00-d767-11eb-9b1d-49eaddf6be21.png">
 
 
 Refactored Code:
