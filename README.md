@@ -37,7 +37,9 @@ It is obvious that refactored code resulted in faster run time.
 
 **Advantages**:
 
-Advantages of refactoring code is to keep it simple and works faster. You can get the results quicker and save memeories on your end. 
+Advantages of refactoring code is to keep it simple and works faster. You can get the results quicker and save memeories on your end.
+
+
 **Disadvanatges**:
 
 Too simple code can confuse outsiders or coworkers without given further notes. It also could be difficult to debug if the results doesn't match with what you would expected. 
