@@ -65,4 +65,6 @@ How do these pros and cons apply to refactoring the original VBA scrip:
 
 Cons: when my initial code gave me error messages, I was confused by which part of the code caused the problem.
 
-Pros: The code works faster and saves me time, so I can review my results as soon as possible.
+Pros: 
+- The code works faster and saves me time, so I can review my results as soon as possible.
+- The refactored code making sure each of my calculated elements are stay unified aas my ticker index.
