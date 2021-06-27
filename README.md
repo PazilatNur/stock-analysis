@@ -67,4 +67,4 @@ Cons: when my initial code gave me error messages, I was confused by which part 
 
 Pros: 
 - The code works faster and saves me time, so I can review my results as soon as possible.
-- The refactored code making sure each of my calculated elements are stay unified aas my ticker index.
+- The refactored code making sure each of my calculated elements are stay unified as my ticker index.
